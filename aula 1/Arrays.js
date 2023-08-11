@@ -1,6 +1,7 @@
+//Arrays são diferentes de string, Array são indexadas por elementos
 const alunos = ['Gustavo', 'Arielly', 'Molly', 1, true, null];
 console.log(alunos);
-// Arrays são diferentes de string, Array são indexadas por elementos
+
 const array = ['Gustavo', 'Arielly', 'Molly'];
 console.log(array);
 console.log(array[0]);
